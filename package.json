@@ -1,0 +1,33 @@
+{
+  "name": "atka4america",
+  "version": "1.0.0",
+  "description": "This is a website for local businesses supporting animals",
+  "main": "index.html",
+  "scripts": {
+    "lite": "lite-server",
+    "start": "npm run watch:all",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+
+  "author": "Shari Ezell",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  },
+
+  "dependencies": {
+    "bootstrap": "^4.5.0",
+    "bootstrap-social": "^5.1.1",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1"
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EZgreen/Atka4America.git"
+  },
+
+  "homepage": "https://github.com/EZgreen/Atka4America/new/master?readme=1"
+
+}
